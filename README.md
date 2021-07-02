@@ -19,7 +19,7 @@ work performed on dataset to get the result-
 1) Pivot Table and chart
 2) concat function
 3) formatting cell
-4) Data cleaning
+4) Adding slicers
 5) filter 
 6) find and replace function
 7) unpivot column
