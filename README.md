@@ -1,4 +1,4 @@
-#                                                                            ms-excel-Data Analysis -project
+#                                                                            MS-Excel-Data Analysis -project
 
 An excel project, data-set of Indian Population has been taken from the government website, cleaned the data-set and made dashboard for all the analysis.
 
